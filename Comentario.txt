@@ -1,0 +1,4 @@
+API para realizar autenticação de usuario
+
+Utilizando NodeJS e MongoDB 
+Express e moongose
